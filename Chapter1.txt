@@ -1,1 +1,1 @@
-Testing my ability to create branches and merge.  This is chapter 1 revised in the second branch.
+Testing my knowledge on how to create branches and merge.  This is chapter 1 revised in the second branch.
